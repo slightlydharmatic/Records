@@ -1,2 +1,2 @@
 # Records
-Database in memory holding records with the ability to processes database queries. 
+Database in memory holding records with the ability to processes database queries. Database was built for fast insertions and lookup through a key field. Has the capability to return a vector of all of the corresponding records than satisfy inputted queries by the user. Built the data structure from scratch and able to process queries utilizing the comparison operators <, <=, >, >=, !=, ==, and =. 
